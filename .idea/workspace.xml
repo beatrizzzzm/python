@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5e01099a-9fca-4356-b5e8-8410eb649c2c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Capitulo 3/correçao lissta 01/exercicio 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo 3/correçao lissta 01/exercicio 2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +36,8 @@
     "Python.exercicio 01.executor": "Run",
     "Python.exercicio 2.executor": "Run",
     "Python.exercicio 3.executor": "Run",
+    "Python.exercicio01funçoes.executor": "Run",
+    "Python.exercicio02funcoes.executor": "Run",
     "Python.exerciio 1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
