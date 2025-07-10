@@ -1,0 +1,15 @@
+#ATV2
+def valor(preco , desconto):
+  return (desconto/100) * preco
+
+def valorfinal(preco , valordesconto):
+  return preco
+
+preco = float(input("Digite o valor do item"))
+desconto = float(input("digite o percentual de desconto do item"))
+
+valordesconto = valor(preco , desconto)
+valorfinal = valorfinal(preco , valordesconto)
+
+print("o valor do desconto será de", valordesconto)
+print("O valor final do produto será de", valorfinal)
