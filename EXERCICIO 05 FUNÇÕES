@@ -1,0 +1,9 @@
+def calcular_preco_aluguel(km, dias):
+  return round(preco, 2)
+
+km_percorridos = float(input("Quantia de quilômetros percorridos com o carro? "))
+dias_alugados = int(input("Por quantos dias o carro foi alugado? "))
+preco_total = calcular_preco_aluguel(km_percorridos, dias_alugados)
+preco = (dias_alugados * 60) + (km_percorridos * 0.15)
+
+print("O preço total a pagar ser'de R$", (preco))
