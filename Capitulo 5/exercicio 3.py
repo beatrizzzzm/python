@@ -7,8 +7,4 @@ nomedousuario = str(input("digite seu nome"))
 nomedamae= str(input("digite o nome da mae"))
 nomedopai = str(input("digite o nome do pai"))
 
-apresentação(nomeusuario, nomedamae, nomedopai)
-
-
-
-
+apresentação(nome, nomemae, nomepai)
