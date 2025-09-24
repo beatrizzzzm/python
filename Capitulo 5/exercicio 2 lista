@@ -1,0 +1,12 @@
+def resultadoFinal(numerosSomados, valor):
+    return print(f"Somando todos os valores e subtraindo por 10 o resultado é {numerosSomados - valor}")
+
+
+numero = int(input('Digite um número inteiro: '))
+numero1 = int(input('Digite outro número inteiro: '))
+numero2 = int(input('Digite mais um número inteiro: '))
+numero3 = int(input('Digite o último número inteiro: '))
+numerosSomados = (numero + numero1 + numero2 + numero3)
+valor = 10
+
+resultadoFinal(numerosSomados, valor)
