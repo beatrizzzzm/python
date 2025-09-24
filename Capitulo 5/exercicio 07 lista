@@ -1,7 +1,10 @@
-def media(nota1, nota2):
-    print(f'A média entre {nota1} e {nota2} é {(nota1 + nota2) / 2}')
+def celsius_para_fahrenheit(celsius):
+    return (9 * celsius / 5) + 32
+
+def temperatura(celcius, fahrenheit):
+    print(f'A temperatura de {celcius}° em fahrenheit é {fahrenheit}')
 
 
-nota1 = int(input("Insira a primeira nota: "))
-nota2 = int(input("Insira a segunda nota: "))
-media(nota1, nota2)
+celcius = int(input('Digite alguma temperatura em celcius: '))
+temperaturaFahrenheit =  celsius_para_fahrenheit(celcius)
+temperatura(celcius,temperaturaFahrenheit)
