@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e01099a-9fca-4356-b5e8-8410eb649c2c" name="Changes" comment="" />
+    <list default="true" id="5e01099a-9fca-4356-b5e8-8410eb649c2c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Capitulo 5/Estrutura de decisao/atv4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Capitulo 5/Estrutura de decisao/atv5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Capitulo 5/Estrutura de decisao/atv6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Capitulo 5/Estrutura de decisao/atv3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo 5/Estrutura de decisao/atv3.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,25 +34,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.exemplo 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exemplo02valoresetipos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio 01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio 2 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio 3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio01funçoes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio02funcoes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exerciio 1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/escola/Downloads/python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.atv1.executor": "Run",
+    "Python.atv3.executor": "Run",
+    "Python.atv4.executor": "Run",
+    "Python.exemplo 1.executor": "Run",
+    "Python.exemplo02valoresetipos.executor": "Run",
+    "Python.exercicio 01.executor": "Run",
+    "Python.exercicio 2 (1).executor": "Run",
+    "Python.exercicio 2.executor": "Run",
+    "Python.exercicio 3.executor": "Run",
+    "Python.exercicio01funçoes.executor": "Run",
+    "Python.exercicio02funcoes.executor": "Run",
+    "Python.exerciio 1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/escola/Downloads/python",
+    "settings.editor.selected.configurable": "configurable.group.build"
   }
-}</component>
-  <component name="RunManager" selected="Python.exemplo 1">
+}]]></component>
+  <component name="RunManager">
     <configuration name="exemplo 1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
